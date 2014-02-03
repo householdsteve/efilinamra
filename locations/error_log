@@ -1,0 +1,55 @@
+[28-Aug-2013 22:35:05 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'johannvi_armani.continent' doesn't exist' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('SELECT `contine...')
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), 'SELECT `contine...')
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(467): Zend_Db_Adapter_Mysqli->prepare('SELECT `contine...')
+#3 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#4 /home/johannvi/public_html/armani/library/classes/class/continent.php(134): Zend_Db_Adapter_Abstract->fetchAll(Object(Zend_Db_Select))
+#5 /home/johannvi/public_html/armani/includes in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 77
+[29-Aug-2013 07:29:25 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query('select ????????...', 'X1319UN2')
+#3 /home/johannvi/public_html/armani/library/classes/class/cafe.php(290): Zend_Db_Adapter_Abstract->fetchAll('select ????????...', 'X1319UN2')
+#4 /home/johannvi/public_html/armani/locations/default.php(112): class_cafe->getFrontByContinent('X1319UN2')
+#5 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214
+[29-Aug-2013 07:50:57 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#3 /home/johannvi/public_html/armani/library/classes/class/continent.php(134): Zend_Db_Adapter_Abstract->fetchAll(Object(Zend_Db_Select))
+#4 /home/johannvi/public_html/armani/includes/location-menu.php(9): class_continent->getFrontAll()
+#5 /home/johannvi/public_html/armani/locations/default.php(54): require_once('/home/johannvi/...')
+#6 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214
+[29-Aug-2013 07:54:46 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#3 /home/johannvi/public_html/armani/library/classes/class/city.php(160): Zend_Db_Adapter_Abstract->fetchAll(Object(Zend_Db_Select))
+#4 /home/johannvi/public_html/armani/includes/location-menu.php(21): class_city->getFrontByContinent('S6CG0A91')
+#5 /home/johannvi/public_html/armani/locations/default.php(54): require_once('/home/johannvi/...')
+#6 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214
+[29-Aug-2013 07:54:46 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query('select ????????...', 'S6CG0A91')
+#3 /home/johannvi/public_html/armani/library/classes/class/cafe.php(262): Zend_Db_Adapter_Abstract->fetchAll('select ????????...', 'S6CG0A91')
+#4 /home/johannvi/public_html/armani/locations/default.php(85): class_cafe->getFeatureByContinent('S6CG0A91')
+#5 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214
+[29-Aug-2013 07:55:00 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(706): Zend_Db_Adapter_Abstract->query('select ????????...', 'A5VTVMR7')
+#3 /home/johannvi/public_html/armani/library/classes/class/cafe.php(290): Zend_Db_Adapter_Abstract->fetchAll('select ????????...', 'A5VTVMR7')
+#4 /home/johannvi/public_html/armani/locations/default.php(112): class_cafe->getFrontByContinent('A5VTVMR7')
+#5 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214

@@ -1,0 +1,25 @@
+[19-Aug-2013 10:53:03 Africa/Johannesburg] PHP Warning:  require_once(class/cafeimage.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/johannvi/public_html/armani/admin/cafes/images.php on line 15
+[19-Aug-2013 10:53:03 Africa/Johannesburg] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class/cafeimage.php' (include_path='/home/johannvi/public_html/armani/:/home/johannvi/public_html/armani/library/classes/') in /home/johannvi/public_html/armani/admin/cafes/images.php on line 15
+[19-Aug-2013 10:53:49 Africa/Johannesburg] PHP Warning:  require_once(class/cafeimage.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/johannvi/public_html/armani/admin/cafes/images.php on line 15
+[19-Aug-2013 10:53:49 Africa/Johannesburg] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class/cafeimage.php' (include_path='/home/johannvi/public_html/armani/:/home/johannvi/public_html/armani/library/classes/') in /home/johannvi/public_html/armani/admin/cafes/images.php on line 15
+[29-Aug-2013 07:24:06 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_shortDescription in /home/johannvi/public_html/armani/admin/cafes/details.php on line 186
+[29-Aug-2013 07:24:06 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_description in /home/johannvi/public_html/armani/admin/cafes/details.php on line 187
+[29-Aug-2013 07:24:07 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/johannvi/public_html/armani/admin/cafes/details.php:186) in /home/johannvi/public_html/armani/admin/cafes/details.php on line 267
+[29-Aug-2013 07:24:39 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_shortDescription in /home/johannvi/public_html/armani/admin/cafes/details.php on line 186
+[29-Aug-2013 07:24:39 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_description in /home/johannvi/public_html/armani/admin/cafes/details.php on line 187
+[29-Aug-2013 07:24:41 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/johannvi/public_html/armani/admin/cafes/details.php:186) in /home/johannvi/public_html/armani/admin/cafes/details.php on line 267
+[29-Aug-2013 07:36:34 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_shortDescription in /home/johannvi/public_html/armani/admin/cafes/details.php on line 186
+[29-Aug-2013 07:36:34 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_description in /home/johannvi/public_html/armani/admin/cafes/details.php on line 187
+[29-Aug-2013 07:36:36 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/johannvi/public_html/armani/admin/cafes/details.php:186) in /home/johannvi/public_html/armani/admin/cafes/details.php on line 267
+[29-Aug-2013 07:52:53 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_shortDescription in /home/johannvi/public_html/armani/admin/cafes/details.php on line 186
+[29-Aug-2013 07:52:53 Africa/Johannesburg] PHP Notice:  Undefined index: cafe_description in /home/johannvi/public_html/armani/admin/cafes/details.php on line 187
+[29-Aug-2013 07:52:53 Africa/Johannesburg] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/johannvi/public_html/armani/admin/cafes/details.php:186) in /home/johannvi/public_html/armani/admin/cafes/details.php on line 267
+[29-Aug-2013 08:06:20 Africa/Johannesburg] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli statement execute error : Prepared statement needs to be re-prepared' in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php:214
+Stack trace:
+#0 /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement.php(300): Zend_Db_Statement_Mysqli->_execute(Array)
+#1 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(468): Zend_Db_Statement->execute(Array)
+#2 /home/johannvi/public_html/armani/library/classes/Zend/Db/Adapter/Abstract.php(725): Zend_Db_Adapter_Abstract->query(Object(Zend_Db_Select), Array)
+#3 /home/johannvi/public_html/armani/library/classes/class/cafe.php(63): Zend_Db_Adapter_Abstract->fetchRow(Object(Zend_Db_Select))
+#4 /home/johannvi/public_html/armani/admin/cafes/images.php(26): class_cafe->getByCode('SDUAO9VV')
+#5 {main}
+  thrown in /home/johannvi/public_html/armani/library/classes/Zend/Db/Statement/Mysqli.php on line 214

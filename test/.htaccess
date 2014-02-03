@@ -1,0 +1,9 @@
+AuthPAM_Enabled off
+
+AuthUserFile /var/www/armanilifestyle/test/.htpasswd
+
+AuthName Servizi
+
+AuthType Basic
+require 
+valid-user
