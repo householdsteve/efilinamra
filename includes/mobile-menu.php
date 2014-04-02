@@ -83,9 +83,9 @@ foreach($continentmenuData as $item) { ?>
  ?>
 </div>
 <?php } ?>
-<a class="left-nav-item" href="/features.php">Features</a>
-<a class="left-nav-item" href="/stories.php">Story</a>
-<a class="left-nav-item  " style='background:#666666;margin-top:12px;'  href="/locations/reservation.php">RESERVE NOW</a>
+<a class="left-nav-item" href="/features">Features</a>
+<a class="left-nav-item" href="/stories">Story</a>
+<a class="left-nav-item  " style='background:#666666;margin-top:12px;'  href="/locations/reservation">RESERVE NOW</a>
 </div>
 
 <div style="clear: both;"></div>

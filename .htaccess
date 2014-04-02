@@ -14,11 +14,10 @@ ErrorDocument 401 /404.html
 ErrorDocument 403 /404.html
 ErrorDocument 404 /404.html
 ErrorDocument 500 /404.html
-
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.php [NC,L]
  
 # Search for
 RewriteRule ^locations/([^/\.]+)/?$				locations/search.php?city=$1 [QSA,L]
 RewriteRule ^locations/([^/\.]+)/([^/\.]+)/?$	locations/details.php?city=$1&cafe=$2 [QSA,L]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [L]

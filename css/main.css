@@ -1094,3 +1094,16 @@ html.touch #homeSlider a{display:block!important;}
         page-break-after: avoid;
     }
 }
+
+/* ==========================================================================
+   ADDED BY STEVE
+   ========================================================================== */
+   
+   .span6.no-margin{
+     margin-left:0;
+   }
+   
+   img.img-repsonsive {
+     min-width:100%;
+     height:auto;
+   }

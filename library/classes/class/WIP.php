@@ -86,7 +86,7 @@ $featured=$featured[0];
 						<div id="homeSlider">
 
 							<!-- add span message out of LI   -->
-							<span class="message"><img src="img/welcome-logo.png" /> <a id='res_now' class='blk'  style='display: none'  href="/locations/reservation.php">RESERVE NOW</a></span>
+							<span class="message"><img src="img/welcome-logo.png" /> <a id='res_now' class='blk'  style='display: none'  href="/locations/reservation">RESERVE NOW</a></span>
 							
 						
 							      
@@ -166,7 +166,7 @@ $featured=$featured[0];
 									<span class="focus-cafe">Cannes
 										<br />
 										ARMANI CAFFE</span>
-								</div> <div style="clear: both;"></div> <a style="display: none;" class="hidden-read-more blockspot" href="features.php"><span>Read Article</span></a> </span>
+								</div> <div style="clear: both;"></div> <a style="display: none;" class="hidden-read-more blockspot" href="/features"><span>Read Article</span></a> </span>
 
 							<span class="img-overlay"></span>
 						</div><!--/span-->
@@ -189,7 +189,7 @@ $featured=$featured[0];
 						
 							<span class="story-intro"><span class="story-title">The story</span><span class='cnt_st'>The delight of a warm welcome; the careful sourcing of quality ingredients;
 								the radiance of a fantastic setting; work inspired by passion and a love of food</span></span>
-							<a  href="stories.php"></a>
+							<a  href="/stories"></a>
 							<img src="img/the-story_bg.jpg">
 							<span class="img-overlay"></span>
 						</div><!--/span-->
