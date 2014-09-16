@@ -110,7 +110,7 @@ require_once 'config/database.php';
                   Great care was taken with regard to the entrance hall (380 square metres), which features a large bar counter as well as a smoking area. The veranda, which overlooks Via Pisoni, elegantly extends to the lounge area. The first floor (280 square metres) is structured around the new sushi bar, the centrepiece of the design, which is visible from the stairwell and is embellished with metallic champagne-coloured panels.
                   Highlighting these structural changes is an aesthetic that re-evaluates the texture and fullness of materials, with a lavish use of colour in quiet shades – typically Armani – paired with warm, sensual tones. The floor has a wood-effect herringbone pattern in classic Armani greige. On the light marmorino plaster walls are lighting installations in a moiré pattern outlined in dark wood.<br/>
 									<br/>
-                  These alternate with woven matting panels in warm and natural shades. The Japanese inspiration, unstructured to abstraction, finds expression in the wooden beams decorating the ceiling and in skilful, gentle lighting, and in design accents visible in the wall decoration and the tables. A special edition of the Hack lamp in Murano glass from the Armani/Casa collection immerses the environment in a rich and sophisticated atmosphere. Even the chairs evoke a distant oriental inspiration, with wraparound backs in solid bentwood. Exclusive fabrics selected by Giorgio Armani are used for the upholstery, alternating different decorative designs in which sunny orange tones stand out.
+                  These alternate with woven matting panels in warm and natural shades. The Japanese inspiration, unstructured to abstraction, finds expression in the wooden beams decorating the ceiling and in skilful, gentle lighting, and in design accents visible in the wall decoration and the tables. 
 									
 
 								</p>
@@ -118,7 +118,9 @@ require_once 'config/database.php';
 							</div>
 							<div class="col2">
 								<p>
-
+                  A special edition of the Hack lamp in Murano glass from the Armani/Casa collection immerses the environment in a rich and sophisticated atmosphere. Even the chairs evoke a distant oriental inspiration, with wraparound backs in solid bentwood. Exclusive fabrics selected by Giorgio Armani are used for the upholstery, alternating different decorative designs in which sunny orange tones stand out.
+<br/>
+									<br/>
                   Over the years, Armani/Nobu has become a respected fixture on the Italian restaurant scene, combining chef Nobuyuki Matsuhisa's cuisine with the distinctive aesthetic quality that distinguishes the Armani brand. The layout of the space following the redesign allows for 130 seats on the ground floor, where the smoking area and temperature-regulated wine cellar are located, and 100 seats on the upper floor, where the sushi bar resides.
                   Please visit us on Facebook.com/ArmaniNobu and tag us on #ArmaniNobu
                   ARMANI/NOBU
