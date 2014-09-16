@@ -102,6 +102,10 @@ $featured=$featured[0];
 
 									
 								</li>
+								<li><img src="img/<?php echo($device) ?>home-3.jpg" />
+
+									
+								</li>
 								
 							</ul>
 						</div>
@@ -154,15 +158,15 @@ $featured=$featured[0];
 
 					<div class="row-fluid">
 						<div id="focus-on" class="span6 overlay-area" style='width:50%;cursor:pointer'>
-							<img src="img/Cannes_1.jpg">
+							<img src="img/armani_nobu_milano-2014.jpg">
 							<span class="focus-descriptions">
 								<div class="content">
 									<p>
 										Focus On
 									</p>
-									<span class="focus-cafe">Cannes
+									<span class="focus-cafe">MILANO
 										<br />
-										ARMANI CAFFE</span>
+										ARMANI/NOBU</span>
 								</div> <div style="clear: both;"></div> <a style="display: none;" class="hidden-read-more blockspot" href="/features"><span>Read Article</span></a> </span>
 
 							<span class="img-overlay"></span>

@@ -79,7 +79,7 @@ require_once 'config/database.php';
 					<div class="slider-wrap">
 						<ul class="cafe-slider">
 
-							<li><img src="/img/giorgioarmani-boutique-cannes.jpg" />
+							<li><img src="/img/armani_nobu_milano-features-2014.jpg" />
 							</li>
 
 						</ul>
@@ -89,7 +89,7 @@ require_once 'config/database.php';
 
 							<div class="features-title">
 								<span>Focus On</span>
-								<h2>CANNES</h2>
+								<h2>MILANO</h2>
 							</div>
 
 							<div class="social-links hidden-phone" >
@@ -97,22 +97,21 @@ require_once 'config/database.php';
 								<span style='font-size:75%;color:#ccc'>SHARE </span>
 								<a class="facebook" onclick="return fbs_click()"  style='cursor:pointer'  >Facebook</a>
 								<a class="twitter" href="http://twitter.com/share?url=<?php echo(rawurlencode("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"))?>&text=<?php echo(rawurlencode('The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.'))?>">Twitter</a>
-								<a class="plus" href="https://plus.google.com/share?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>">Plus</a><a class="pintrest" href="http://pinterest.com/pin/create/button/?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&media=<?php echo("http://$_SERVER[HTTP_HOST]/img/giorgioarmani-boutique-cannes.jpg")?>&description=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.">Pintrest</a>
+								<a class="plus" href="https://plus.google.com/share?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>">Plus</a><a class="pintrest" href="http://pinterest.com/pin/create/button/?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&media=<?php echo("http://$_SERVER[HTTP_HOST]/img/armani_nobu_milano-features-2014.jpg")?>&description=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.">Pintrest</a>
 							</div>
 
 							<div class="clearfix"></div>
 							<div class="col1">
 								<p>
 
-									<span class="prima">T</span>he Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.
+									<span class="prima">R</span>eopening after the summer break is Armani/Nobu, a meeting point for the subtle pleasures of gourmet cuisine and the refined sophistication of discrete dining. A complete redesign has lent a new balance to the restaurant and emphasises the feeling of the large structure's space.
 									<br/>
 									<br/>
-									To celebrate the opening, over 300 guests attended the cocktail party, hosted by Roberta Armani.
+                  Great care was taken with regard to the entrance hall (380 square metres), which features a large bar counter as well as a smoking area. The veranda, which overlooks Via Pisoni, elegantly extends to the lounge area. The first floor (280 square metres) is structured around the new sushi bar, the centrepiece of the design, which is visible from the stairwell and is embellished with metallic champagne-coloured panels.
+                  Highlighting these structural changes is an aesthetic that re-evaluates the texture and fullness of materials, with a lavish use of colour in quiet shades – typically Armani – paired with warm, sensual tones. The floor has a wood-effect herringbone pattern in classic Armani greige. On the light marmorino plaster walls are lighting installations in a moiré pattern outlined in dark wood.<br/>
 									<br/>
-									<br/>
-									Amongst others, the following attended: Milla Jovovich, Rosie Hungtington Whiteley, Lea Seydoux, Alyson Le Borges,
-									Eugenia Silva, Paolo and Daniela Sorrentino, Ornella Muti, Kat Graham, Will Forte, Micheal Cera, Colin Egglesfield,
-									Stacy Keibler, Paul Wisley, Jasmine Warsame, Juno Temple, Petra Nemcova, Moran Atias, Serena Dandini, Laura Dern, Jon Kortajarena.
+                  These alternate with woven matting panels in warm and natural shades. The Japanese inspiration, unstructured to abstraction, finds expression in the wooden beams decorating the ceiling and in skilful, gentle lighting, and in design accents visible in the wall decoration and the tables. A special edition of the Hack lamp in Murano glass from the Armani/Casa collection immerses the environment in a rich and sophisticated atmosphere. Even the chairs evoke a distant oriental inspiration, with wraparound backs in solid bentwood. Exclusive fabrics selected by Giorgio Armani are used for the upholstery, alternating different decorative designs in which sunny orange tones stand out.
+									
 
 								</p>
 
@@ -120,10 +119,11 @@ require_once 'config/database.php';
 							<div class="col2">
 								<p>
 
-									During the day, a new Armani Tweet Talks took place on the terrace of the Armani/Caffè.
-									The discussion, moderated by  Peter Howarth (CEO of London creative agency Show Media), was focused on fashion and film
-									and featured as panellists: Zachary Quinto (actor and film producer), Derek Blasberg (Harper’s Bazaar Editor-at-large and V Magazine editor),
-									Kevin Maher (writer and Journalist at The Times), Greg Williams (photographer and film director) and Hilary Shor (producer).
+                  Over the years, Armani/Nobu has become a respected fixture on the Italian restaurant scene, combining chef Nobuyuki Matsuhisa's cuisine with the distinctive aesthetic quality that distinguishes the Armani brand. The layout of the space following the redesign allows for 130 seats on the ground floor, where the smoking area and temperature-regulated wine cellar are located, and 100 seats on the upper floor, where the sushi bar resides.
+                  Please visit us on Facebook.com/ArmaniNobu and tag us on #ArmaniNobu
+                  ARMANI/NOBU
+                  via G. Pisoni 1 - 20121 Milan
+                  +39 02/72318645
 
 								</p>
 							</div>
@@ -138,7 +138,7 @@ require_once 'config/database.php';
 								<span style='font-size:75%;color:#ccc'>SHARE </span>
 								<a class="facebook"  onclick="return fbs_click()"  style='cursor:pointer'>Facebook</a>
 								<a class="twitter" href="http://twitter.com/share?url=<?php echo(rawurlencode("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"))?>&text=<?php echo(rawurlencode('The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.'))?>">Twitter</a>
-								<a class="plus" href="https://plus.google.com/share?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>">Plus</a><a class="pintrest" href="http://pinterest.com/pin/create/button/?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&media=<?php echo("http://$_SERVER[HTTP_HOST]/img/giorgioarmani-boutique-cannes.jpg")?>&description=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.">Pintrest</a>
+								<a class="plus" href="https://plus.google.com/share?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>">Plus</a><a class="pintrest" href="http://pinterest.com/pin/create/button/?url=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&media=<?php echo("http://$_SERVER[HTTP_HOST]/img/armani_nobu_milano-features-2014.jpg")?>&description=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept.">Pintrest</a>
 							</div>
 							<div class="clearfix"></div>
 
@@ -248,7 +248,7 @@ require_once 'config/database.php';
 			function fbs_click(){
 				
 				
-				window.open('http://www.facebook.com/sharer.php?s=100&p[url]=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&p[images][0]=<?php echo("http://$_SERVER[HTTP_HOST]/img/giorgioarmani-boutique-cannes.jpg")?>&p[title]=FOCUS ON: The first Giorgio Armani boutique in Cannes&p[summary]=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept',
+				window.open('http://www.facebook.com/sharer.php?s=100&p[url]=<?php echo("http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]")?>&p[images][0]=<?php echo("http://$_SERVER[HTTP_HOST]/img/armani_nobu_milano-features-2014.jpg")?>&p[title]=FOCUS ON: The first Giorgio Armani boutique in Cannes&p[summary]=The Armani group is pleased to announce the opening of its first Giorgio Armani boutique in Cannes, during the Cannes Film Festival, and its new Armani/Caffè concept',
 'sharer','toolbar=0,status=0,width=320,height=200');return false;
 				
 				
