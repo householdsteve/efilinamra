@@ -116,7 +116,7 @@ h5 {font-size: 11px;}
 
 .ishead {
 	
-	
+	height:31px;
 	background:#EAEAEA;
 
 }
@@ -124,15 +124,12 @@ h5 {font-size: 11px;}
 	
 	display:block;
 	width:100px;
-	height:31px;
-	margin-left:7px;
+	margin-left:15px;
 	
 
 }
 .ishead a img{
 	
-	width:100px
-
 }
 
 .ishead .acomlogo {
