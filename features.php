@@ -121,12 +121,11 @@ require_once 'config/database.php';
                   A special edition of the Hack lamp in Murano glass from the Armani/Casa collection immerses the environment in a rich and sophisticated atmosphere. Even the chairs evoke a distant oriental inspiration, with wraparound backs in solid bentwood. Exclusive fabrics selected by Giorgio Armani are used for the upholstery, alternating different decorative designs in which sunny orange tones stand out.
 <br/>
 									<br/>
-                  Over the years, Armani/Nobu has become a respected fixture on the Italian restaurant scene, combining chef Nobuyuki Matsuhisa's cuisine with the distinctive aesthetic quality that distinguishes the Armani brand. The layout of the space following the redesign allows for 130 seats on the ground floor, where the smoking area and temperature-regulated wine cellar are located, and 100 seats on the upper floor, where the sushi bar resides.
-                  Please visit us on Facebook.com/ArmaniNobu and tag us on #ArmaniNobu
-                  ARMANI/NOBU
-                  via G. Pisoni 1 - 20121 Milan
+                  Over the years, Armani/Nobu has become a respected fixture on the Italian restaurant scene, combining chef Nobuyuki Matsuhisa's cuisine with the distinctive aesthetic quality that distinguishes the Armani brand. The layout of the space following the redesign allows for 130 seats on the ground floor, where the smoking area and temperature-regulated wine cellar are located, and 100 seats on the upper floor, where the sushi bar resides.<br/><br/>
+                  Please visit us on <a href="http://fb.com/ArmaniNobu">Facebook.com/ArmaniNobu</a>. Tag us #ArmaniNobu<br/>
+                  ARMANI/NOBU<br/>
+                  via G. Pisoni 1 - 20121 Milan<br/>
                   +39 02/72318645
-
 								</p>
 							</div>
 							<div class="clearfix"></div>
