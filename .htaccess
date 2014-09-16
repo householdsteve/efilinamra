@@ -18,7 +18,6 @@ ErrorDocument 500 /404.html
 # Search for
 RewriteRule ^locations/([^/\.]+)/?$				locations/search.php?city=$1 [QSA,L]
 RewriteRule ^locations/([^/\.]+)/([^/\.]+)/?$	locations/details.php?city=$1&cafe=$2 [QSA,L]
-RewriteRule locations/reservation				locations/reservation.php [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [L]

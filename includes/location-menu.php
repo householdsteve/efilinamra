@@ -74,5 +74,5 @@ foreach($continentmenuData as $item) { ?>
 <?php } ?>
 <a class="left-nav-item <?php if($is_features) echo(' active2')?>" href="/features">Features</a>
 <a class="left-nav-item <?php if($is_story) echo(' active2')?>" href="/stories">Story</a>
-<a class="left-nav-item  " style='background:#666666;margin-top:12px;'  href="/locations/reservation">RESERVE NOW</a>
+<a class="left-nav-item  " style='background:#666666;margin-top:12px;'  href="/locations/reservation.php">RESERVE NOW</a>
 </div>
