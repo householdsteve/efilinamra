@@ -70,9 +70,7 @@ require_once 'config/database.php';
 							<h1 class="title_siz">FEATURES</h1>
 						</div>
 						<div class="span5 feature-tag-line">
-							A COLLECTION OF ARTICLES ON ARMANI 
-							<br/>
-							LIFESTYLE ESTABLISHMENTS WORLD WIDE
+							YOUR FRONT ROW TO ARMANI RESTURANTS WORLD WIDE
 						</div>
 
 					</div>
